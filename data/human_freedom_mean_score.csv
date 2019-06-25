@@ -1,0 +1,163 @@
+ISO_code,countries,region,hf_score
+AGO,Angola,Sub-Saharan Africa,5.499577332444445
+ALB,Albania,Eastern Europe,7.522911266666666
+ARE,United Arab Emirates,Middle East & North Africa,6.441008283555555
+ARG,Argentina,Latin America & the Caribbean,6.677056379444445
+ARM,Armenia,Caucasus & Central Asia,7.413269485111112
+AUS,Australia,Oceania,8.613201398444446
+AUT,Austria,Western Europe,8.424140964555555
+AZE,Azerbaijan,Caucasus & Central Asia,6.153984374222222
+BDI,Burundi,Sub-Saharan Africa,5.6122884646666655
+BEL,Belgium,Western Europe,8.22798381788889
+BEN,Benin,Sub-Saharan Africa,6.608677452222222
+BFA,Burkina Faso,Sub-Saharan Africa,6.722851207333332
+BGD,Bangladesh,South Asia,5.870765755666666
+BGR,Bulgaria,Eastern Europe,7.814099972111112
+BHR,Bahrain,Middle East & North Africa,6.800511555
+BHS,Bahamas,Latin America & the Caribbean,7.558520267
+BIH,Bosnia and Herzegovina,Eastern Europe,7.3380424498888885
+BLR,Belarus,Eastern Europe,6.144514082000001
+BLZ,Belize,Latin America & the Caribbean,7.117776320888889
+BOL,Bolivia,Latin America & the Caribbean,6.851350456111111
+BRA,Brazil,Latin America & the Caribbean,6.733619598777778
+BRD,Barbados,Latin America & the Caribbean,7.2594440570000005
+BRN,Brunei Darussalam,South Asia,6.279734401714286
+BTN,Bhutan,South Asia,6.856972296750001
+BWA,Botswana,Sub-Saharan Africa,6.932594820888889
+CAF,Central Afr. Rep.,Sub-Saharan Africa,5.213165724555555
+CAN,Canada,North America,8.619080780222221
+CHE,Switzerland,Western Europe,8.782946530222224
+CHL,Chile,Latin America & the Caribbean,8.144991883222222
+CHN,China,East Asia,5.964410928666667
+CIV,Cote d'Ivoire,Sub-Saharan Africa,6.090133806333332
+CMR,Cameroon,Sub-Saharan Africa,5.820257742444444
+COD,"Congo, Dem. R.",Sub-Saharan Africa,5.182034713444445
+COG,"Congo, Rep. Of",Sub-Saharan Africa,5.648398520888889
+COL,Colombia,Latin America & the Caribbean,6.7085305927777785
+CPV,Cape Verde,Sub-Saharan Africa,7.365986639000001
+CRI,Costa Rica,Latin America & the Caribbean,7.866567487222222
+CYP,Cyprus,Eastern Europe,8.148434825
+CZE,Czech Rep.,Eastern Europe,8.209977604999999
+DEU,Germany,Western Europe,8.41914208911111
+DNK,Denmark,Western Europe,8.58924583377778
+DOM,Dominican Rep.,Latin America & the Caribbean,7.053477862555556
+DZA,Algeria,Middle East & North Africa,5.1408028348888894
+ECU,Ecuador,Latin America & the Caribbean,6.691279773222224
+EGY,Egypt,Middle East & North Africa,5.472312803222223
+ESP,Spain,Western Europe,8.141658956
+EST,Estonia,Eastern Europe,8.390369313111112
+ETH,Ethiopia,Sub-Saharan Africa,5.447442314666667
+FIN,Finland,Western Europe,8.606344998222221
+FJI,Fiji,Oceania,7.205386741111111
+FRA,France,Western Europe,8.081119403333332
+GAB,Gabon,Sub-Saharan Africa,5.722205697555556
+GBR,United Kingdom,Western Europe,8.513015975333333
+GEO,Georgia,Caucasus & Central Asia,7.739058737333334
+GHA,Ghana,Sub-Saharan Africa,7.176949074222222
+GIN,Guinea,Sub-Saharan Africa,5.640219131249999
+GMB,"Gambia, The",Sub-Saharan Africa,6.478589660142857
+GNB,Guinea-Bissau,Sub-Saharan Africa,5.888081789
+GRC,Greece,Eastern Europe,7.5869858407777775
+GTM,Guatemala,Latin America & the Caribbean,7.124003306555555
+GUY,Guyana,Latin America & the Caribbean,6.791654856444445
+HKG,Hong Kong,East Asia,8.970342374111112
+HND,Honduras,Latin America & the Caribbean,6.772742491777777
+HRV,Croatia,Eastern Europe,7.632452757666666
+HTI,Haiti,Latin America & the Caribbean,6.80464002988889
+HUN,Hungary,Eastern Europe,7.963760132000001
+IDN,Indonesia,South Asia,6.850316901
+IND,India,South Asia,6.559097939666667
+IRL,Ireland,Western Europe,8.477890323444447
+IRN,Iran,Middle East & North Africa,4.937619820222222
+IRQ,Iraq,Middle East & North Africa,4.25801381
+ISL,Iceland,Western Europe,8.12203343811111
+ISR,Israel,Middle East & North Africa,7.5843581085555565
+ITA,Italy,Western Europe,7.965652811666668
+JAM,Jamaica,Latin America & the Caribbean,7.184242424555555
+JOR,Jordan,Middle East & North Africa,6.793357680444444
+JPN,Japan,East Asia,8.179345967555555
+KAZ,Kazakhstan,Caucasus & Central Asia,6.823117965333333
+KEN,Kenya,Sub-Saharan Africa,6.707100354888889
+KGZ,Kyrgyz Republic,Caucasus & Central Asia,6.556698656333333
+KHM,Cambodia,South Asia,7.239280203142857
+KOR,"Korea, South",East Asia,8.115759309555555
+KWT,Kuwait,Middle East & North Africa,6.4393749436666665
+LAO,Laos,South Asia,6.425264663999999
+LBN,Lebanon,Middle East & North Africa,6.686104633714286
+LBR,Liberia,Sub-Saharan Africa,6.640150881666666
+LBY,Libya,Middle East & North Africa,4.535903428499999
+LKA,Sri Lanka,South Asia,6.242378594222222
+LSO,Lesotho,Sub-Saharan Africa,6.2713316400000005
+LTU,Lithuania,Eastern Europe,8.180403530777776
+LUX,Luxembourg,Western Europe,8.390826201
+LVA,Latvia,Eastern Europe,8.12451238788889
+MAR,Morocco,Middle East & North Africa,6.303942768444445
+MDA,Moldova,Eastern Europe,7.013922951333332
+MDG,Madagascar,Sub-Saharan Africa,6.670192057333333
+MEX,Mexico,Latin America & the Caribbean,6.813374886777777
+MKD,Macedonia,Eastern Europe,7.48759336188889
+MLI,Mali,Sub-Saharan Africa,6.027021364555556
+MLT,Malta,Western Europe,8.324870960555554
+MMR,Myanmar,South Asia,5.204670389555556
+MNE,Montenegro,Eastern Europe,7.580648052222222
+MNG,Mongolia,East Asia,7.512578576666666
+MOZ,Mozambique,Sub-Saharan Africa,6.159155973
+MRT,Mauritania,Sub-Saharan Africa,5.660124969111112
+MUS,Mauritius,Sub-Saharan Africa,8.130396045444444
+MWI,Malawi,Sub-Saharan Africa,6.756498824111111
+MYS,Malaysia,South Asia,6.542792726888889
+NAM,Namibia,Sub-Saharan Africa,6.990349815333333
+NER,Niger,Sub-Saharan Africa,6.080438705333333
+NGA,Nigeria,Sub-Saharan Africa,5.961914935444444
+NIC,Nicaragua,Latin America & the Caribbean,7.058619900333333
+NLD,Netherlands,Western Europe,8.423338079666667
+NOR,Norway,Western Europe,8.527671963333335
+NPL,Nepal,South Asia,6.755428328111111
+NZL,New Zealand,Oceania,8.857552866222223
+OMN,Oman,Middle East & North Africa,6.319219623666666
+PAK,Pakistan,South Asia,5.544893783777777
+PAN,Panama,Latin America & the Caribbean,7.5384635637777775
+PER,Peru,Latin America & the Caribbean,7.577527195999999
+PHL,Philippines,South Asia,7.019844877000001
+PNG,Pap. New Guinea,Oceania,6.758907492777777
+POL,Poland,Eastern Europe,8.040578251222222
+PRT,Portugal,Western Europe,8.165573809555555
+PRY,Paraguay,Latin America & the Caribbean,6.998888520111111
+QAT,Qatar,Middle East & North Africa,6.440157729714286
+ROU,Romania,Eastern Europe,8.098951091444444
+RUS,Russia,Eastern Europe,6.400402152222222
+RWA,Rwanda,Sub-Saharan Africa,6.979777826222222
+SAU,Saudi Arabia,Middle East & North Africa,5.500679213
+SDN,Sudan,Sub-Saharan Africa,4.803023585
+SEN,Senegal,Sub-Saharan Africa,6.340340507111112
+SGP,Singapore,South Asia,8.103774259222222
+SLE,Sierra Leone,Sub-Saharan Africa,6.319014056888889
+SLV,El Salvador,Latin America & the Caribbean,7.188722269111111
+SRB,Serbia,Eastern Europe,7.215709454222223
+SUR,Suriname,Latin America & the Caribbean,7.11675120742857
+SVK,Slovak Rep.,Eastern Europe,8.071543228777777
+SVN,Slovenia,Eastern Europe,7.873421271666667
+SWE,Sweden,Western Europe,8.44582338611111
+SWZ,Swaziland,Sub-Saharan Africa,6.145925139428571
+SYC,Seychelles,Sub-Saharan Africa,7.2302311115
+SYR,Syria,Middle East & North Africa,4.759178137555556
+TCD,Chad,Sub-Saharan Africa,5.36057299288889
+TGO,Togo,Sub-Saharan Africa,5.873765674111111
+THA,Thailand,South Asia,6.912963932888888
+TJK,Tajikistan,Caucasus & Central Asia,6.508446663285715
+TLS,Timor-Leste,South Asia,6.54212097442857
+TTO,Trinidad and Tobago,Latin America & the Caribbean,6.814352031444446
+TUN,Tunisia,Middle East & North Africa,6.338351447222222
+TUR,Turkey,Middle East & North Africa,6.905414100888889
+TWN,Taiwan,East Asia,8.135682008555555
+TZA,Tanzania,Sub-Saharan Africa,6.562701177666665
+UGA,Uganda,Sub-Saharan Africa,6.605368984222222
+UKR,Ukraine,Eastern Europe,6.579338121
+URY,Uruguay,Latin America & the Caribbean,7.895527934333334
+USA,United States,North America,8.304748450777778
+VEN,Venezuela,Latin America & the Caribbean,4.920686943666667
+VNM,Vietnam,South Asia,6.332742130777778
+YEM,"Yemen, Rep.",Middle East & North Africa,4.687183412285714
+ZAF,South Africa,Sub-Saharan Africa,7.056252645111111
+ZMB,Zambia,Sub-Saharan Africa,6.625626357222222
+ZWE,Zimbabwe,Sub-Saharan Africa,5.213491554888888
